@@ -1,0 +1,14 @@
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\bin\Debug\net8.0\machilelearning.exe
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\bin\Debug\net8.0\machilelearning.deps.json
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\bin\Debug\net8.0\machilelearning.runtimeconfig.json
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\bin\Debug\net8.0\machilelearning.dll
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\bin\Debug\net8.0\machilelearning.pdb
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.AssemblyInfoInputs.cache
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.AssemblyInfo.cs
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.csproj.CoreCompileInputs.cache
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.dll
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\refint\machilelearning.dll
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.pdb
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\machilelearning.genruntimeconfig.cache
+C:\Users\andrea.franco\Desktop\machilelearning\machilelearning\obj\Debug\net8.0\ref\machilelearning.dll
